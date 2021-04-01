@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ubaiidullah
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science
+- 📫 you can reach me my mailing at ubaidullahhtml@gmail.com
